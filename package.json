@@ -1,5 +1,5 @@
 {
-  "name": "viem-userop",
+  "name": "@block_explorer/viem-userop",
   "version": "0.1.0",
   "description": "A provider-agnostic viem client extension for building, sending, and debugging ERC-4337 UserOperations across EntryPoint v0.6 and v0.7.",
   "type": "module",
